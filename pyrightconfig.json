@@ -1,0 +1,16 @@
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "standard",
+  "include": [
+    "app"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "venv"
+  ],
+  "reportMissingTypeStubs": false,
+  "reportUnknownMemberType": false
+}
